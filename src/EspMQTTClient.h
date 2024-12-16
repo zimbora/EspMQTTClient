@@ -19,7 +19,7 @@
 
 #else // for ESP32
 
-  #include <WiFiClient.h>
+  #include <WiFi.h>
   #include <WebServer.h>
   #include <ESPmDNS.h>
   #include "ESP32HTTPUpdateServer.h"

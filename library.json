@@ -9,14 +9,18 @@
   "authors": [
     {
       "name": "Patrick Lapointe",
+      "maintainer": false
+    },
+    {
+      "name": "J.Lucas.S",
       "maintainer": true
     }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/plapointe6/EspMQTTClient.git"
+    "url": "https://github.com/zimbora/EspMQTTClient.git"
   },
-  "version": "1.13.3",
+  "version": "1.13.4",
   "frameworks": "arduino",
   "platforms": ["espressif8266", "espressif32"],
   "dependencies": [
